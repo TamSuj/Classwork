@@ -2,10 +2,6 @@
 Tammy Sujaritchai
 CS 002 - Programming Project 5: Calculate Your Paycheck
 Last edited: 10/16/22
-
-Screenshot X
-Code X
-READ.ME X
 */
 
 #include <iostream>
