@@ -77,7 +77,6 @@ int main() {
 
   cout << "\nAnd the winner is....." << winner << endl;
   
-  
 }
 
 char computerChoice() {
