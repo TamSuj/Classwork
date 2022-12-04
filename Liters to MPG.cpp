@@ -1,5 +1,5 @@
 /*Tammy Sujaritchai
-CS 002 - Programming Project 6: Liters to MPG
+CS 002 - Programming Project 6: Liters to MPG (Fuel Efficiency)
 Last edited: 10/27/22 
 */
 
