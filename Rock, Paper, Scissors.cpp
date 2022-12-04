@@ -21,8 +21,7 @@ int main() {
   << "\nHow many rounds do you want to play?\n";
   cin >> roundNum;
 
-  /*Prompt for user input [(R)ock, (P)aper, or (S)cissors] then compare   
-  the result to computer generated result using computerChoice function */
+  /*Prompt for user input [(R)ock, (P)aper, or (S)cissors] then compare the result to computer generated result using computerChoice function */
   for (int i = 0; i < roundNum; i++){
     cout << "\nEnter your choice: (R)ock, (P)aper, or (S)cissors" << endl;
     cin >> userChoice;
